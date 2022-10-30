@@ -1,0 +1,14 @@
+{
+  "nextlabs.cloudaz.host": "<Java PC host> eg: jpc.localdomain",
+  "nextlabs.cloudaz.port": "58080",
+  "nextlabs.cloudaz.https": false,
+  "nextlabs.cloudaz.auth_type": "OAUTH2",
+  "nextlabs.cloudaz.oauth2.grant_type": "client_credentials",
+  "nextlabs.cloudaz.oauth2.client_id": "<CLIENT_ID>",
+  "nextlabs.cloudaz.oauth2.client_secret": "<CLIENT_SECRET>",
+  "nextlabs.cloudaz.ignore_https_certificate": true,
+  "nextlabs.cloudaz.oauth2.server": "<Control Center Host>",
+  "nextlabs.cloudaz.oauth2.port": "443",
+  "nextlabs.cloudaz.oauth2.https": true,
+  "nextlabs.cloudaz.oauth2.token_endpoint_path": "/cas/token"
+}
